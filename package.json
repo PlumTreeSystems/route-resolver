@@ -1,6 +1,6 @@
 {
   "name": "js-route-resolver",
-  "version": "0.0.4",
+  "version": "0.2.0",
   "description": "Route resolver for getting routes by Name",
   "main": "RouteResolver.js",
   "scripts": {
