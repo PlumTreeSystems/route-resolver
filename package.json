@@ -1,0 +1,25 @@
+{
+  "name": "js-route-resolver",
+  "version": "0.0.4",
+  "description": "Route resolver for getting routes by Name",
+  "main": "RouteResolver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlumTreeSystems/route-resolver.git"
+  },
+  "keywords": [
+    "Routes",
+    "Resolve",
+    "JS",
+    "ByName"
+  ],
+  "author": "ataqu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlumTreeSystems/route-resolver/issues"
+  },
+  "homepage": "https://github.com/PlumTreeSystems/route-resolver#readme"
+}
