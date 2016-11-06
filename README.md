@@ -32,11 +32,19 @@ module.exports =  {
 ```
 To fetch the path you will need to call the get method
 ``` JS
+// Without parameters
 routesResolver.get("pathName");
 /*
   The result will be
   "/path"
 */
+//With parameters
+routesResolver.get('pathName2', {parameter: paramaterValue})
+/*
+  The result will be
+  "/path/paramaterValue"
+*/
+
 ```
 Example of how to use this in a single page React/Redux application
 
